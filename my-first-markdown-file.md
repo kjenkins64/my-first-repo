@@ -10,7 +10,7 @@ Once you get the hang of *it*, you just:
 
 Now you can be a Wiz at this language and code up suff like `console.writeline("Hello Markdown!");`
 
-Can't remember the language?  No problem!  Just visit one of there resources:
+Can't remember the language?  No problem!  Just visit one of these resources:
 
 [Markdown CheatSheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
